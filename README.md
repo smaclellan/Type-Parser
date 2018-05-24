@@ -1,1 +1,2 @@
-This is a Router simulation that transmits characters in bytes. Each bit is a higher frequency for a 1 and a lower frequency for 0. Then on the receiver end it takes the bit and converts it using the ascii chart back to a character.
+"# Router" 
+"# GPS" 
